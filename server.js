@@ -7,6 +7,10 @@ const users = [
   {
     id: 2,
     name: 'Jerry'
+  },
+  {
+    id: 3,
+    name: 'newTom'
   }
 ]
 
