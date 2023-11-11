@@ -10,7 +10,7 @@ const users = [
   },
   {
     id: 3,
-    name: 'newTom'
+    name: 'Tom2'
   }
 ]
 
